@@ -1,0 +1,14 @@
+# Go build output
+*.exe
+*.out
+*.test
+
+# Go workspace/cache
+vendor/
+
+# IDE
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
