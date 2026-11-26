@@ -1,0 +1,30 @@
+{
+  "authors": [
+    "ferhatelmas"
+  ],
+  "contributors": [
+    "andreybutko",
+    "bitfield",
+    "ekingery",
+    "hilary",
+    "leenipper",
+    "sebito91",
+    "eklatzer"
+  ],
+  "files": {
+    "solution": [
+      "sublist.go"
+    ],
+    "test": [
+      "sublist_test.go",
+      "cases_test.go"
+    ],
+    "example": [
+      ".meta/example.go"
+    ],
+    "editor": [
+      "relations.go"
+    ]
+  },
+  "blurb": "Determine if a list is a sublist of another list."
+}
